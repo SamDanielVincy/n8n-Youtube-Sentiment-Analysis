@@ -8,6 +8,13 @@
 
 This project demonstrates how **AI, workflow automation, and data visualization** can be combined to build a **scalable, real-time sentiment analysis system** for YouTube comments. The system continuously monitors video comments, processes and cleans them, applies AI-based sentiment classification, and updates a live dashboard for instant emotional insights.
 
+## 🎥 Live Demo
+
+
+
+https://github.com/user-attachments/assets/9fc6edf2-ff97-44ea-a4e1-3474cafd4e7b
+
+
 ### 🔍 Use Cases
 
 * 📢 **Brand Monitoring** – Track audience sentiment on product or campaign videos
@@ -44,29 +51,7 @@ This project demonstrates how **AI, workflow automation, and data visualization*
 * 🧩 **Modular Workflow Design** (Easy to extend)
 * ⚡ **Low-Code / No-Code AI Automation**
 
----
 
-```
-
-## 📂 Repository Structure
-
-📁 youtube-sentiment-analysis-n8n
-│
-├── 📁 architecture
-│   └── system_architecture.png
-│
-├── 📁 screenshots
-│   ├── n8n_workflow.png
-│   ├── google_sheets.png
-│   └── dashboard.png
-│
-├── 📁 workflows
-│   └── n8n_workflow.json
-│
-├── 📄 .env.example
-├── 📄 README.md
-└── 📄 LICENSE
-```
 
 ---
 
