@@ -243,7 +243,7 @@ This project is licensed under the **MIT License**.
 B.Tech AI & Data Science | AI Automation | Python Developer
 
 🔗 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/sam-daniel-vincy/)
-📧 Email: [your.email@example.com](mailto:samdanielvincy1029@gmail.com)
+📧 Email: [samdanielvincy1029@gmail.com](mailto:samdanielvincy1029@gmail.com)
 
 ---
 
