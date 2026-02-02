@@ -242,7 +242,7 @@ This project is licensed under the **MIT License**.
 **Sam Vincy**
 B.Tech AI & Data Science | AI Automation | Python Developer
 
-🔗 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/sam-daniel-vincy/)
+🔗 LinkedIn: [https://www.linkedin.com/in/sam-daniel-vincy/](https://www.linkedin.com/in/sam-daniel-vincy/)
 📧 Email: [samdanielvincy1029@gmail.com](mailto:samdanielvincy1029@gmail.com)
 
 ---
@@ -253,4 +253,3 @@ If you found this project helpful, please consider giving it a **star ⭐** and 
 
 ---
 
-> *Built to demonstrate real-world AI automation, NLP pipelines, and scalable system architecture.* 🚀
